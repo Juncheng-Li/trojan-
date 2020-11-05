@@ -1,1 +1,13 @@
 # trojan一键教程
+1. 建立vps，获得`ip`
+2. namedis注册域名
+  * 注册域名
+  * 设置保护
+  * 设置不续费
+  * 解析域名到vps的ip地址
+  * 等待15分钟等待解析奏效
+3. vps安装`魔改bbr`
+4. vps安装trojan
+5. 记住配置，将配置填写到客户端中
+  * 各个客户端链接：https://tlanyan.me/trojan-clients-download/
+6. 链接，测试
