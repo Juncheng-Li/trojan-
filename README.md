@@ -1,7 +1,7 @@
 # trojan一键教程
 1. **建立vps，获得`ip`**
-   * `centOS 7`以上
-2. **去`namesilo`注册域名**
+   * 保证vps系统是`centOS`， 版本 >= 7
+2. **去[`namesilo`](https://www.namesilo.com/)注册域名**
    * 注册域名
    * 设置保护
    * 设置不续费
