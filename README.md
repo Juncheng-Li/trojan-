@@ -15,16 +15,16 @@
       ```
    * 选`1.安装内核`
    * 重新运行脚本
-   ```shell
-   bash tcp_nanqinlang-1.3.2.sh
-   ```
+      ```shell
+      bash tcp_nanqinlang-1.3.2.sh
+      ```
    * 选`2.安装并开启算法`
    * 等待完成
 4. vps安装`trojan`
     * 下载trojan脚本并打开
-    ```shell
-    curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
-    ```
+      ```shell
+      curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
+      ```
     * 选`1.安装trojan`
     * 输入域名（`www.域名.com`或者`域名.com`）
     * 都是绿色就成功等待完成，域名没解析成功就是前面第二部解析完域名没有等15分钟，等等满了大约15分钟再来运行一次这个脚本
