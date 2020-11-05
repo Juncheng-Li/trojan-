@@ -1,13 +1,13 @@
 # trojan一键教程
 1. **建立vps，获得`ip`**
    * `centOS 7`以上
-2. **去`namesilo`注册域名****
+2. **去`namesilo`注册域名**
    * 注册域名
    * 设置保护
    * 设置不续费
    * 解析域名到vps的ip地址
    * 等待15分钟等待解析奏效
-3. **vps安装`魔改bbr**`
+3. **vps安装`魔改bbr`**
    * 下载
      ```shell
       wget --no-check-certificate https://raw.githubusercontent.com/tcp-nanqinlang/general/master/General/CentOS/bash/tcp_nanqinlang-1.3.2.sh
