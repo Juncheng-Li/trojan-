@@ -11,20 +11,21 @@
    * 下载
      ```shell
       wget --no-check-certificate https://raw.githubusercontent.com/tcp-nanqinlang/general/master/General/CentOS/bash/tcp_nanqinlang-1.3.2.sh
-      bash tcp_nanqinlang-1.3.2.sh
+      sudo bash tcp_nanqinlang-1.3.2.sh
       ```
    * 选`1.安装内核`
    * 重启使新安装的内核生效
    * 重新运行脚本
       ```shell
-      bash tcp_nanqinlang-1.3.2.sh
+      sudo bash tcp_nanqinlang-1.3.2.sh
       ```
    * 选`2.安装并开启算法`
    * 等待完成
 4. **vps安装`trojan`**
     * 下载trojan脚本并打开
       ```shell
-      curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
+      curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh
+      sudo sh trojan_mult.sh
       ```
     * 选`1.安装trojan`
     * 输入域名（`www.域名.com`或者`域名.com`）
