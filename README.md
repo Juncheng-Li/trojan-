@@ -14,6 +14,7 @@
       bash tcp_nanqinlang-1.3.2.sh
       ```
    * 选`1.安装内核`
+   * 重启使新安装的内核生效
    * 重新运行脚本
       ```shell
       bash tcp_nanqinlang-1.3.2.sh
