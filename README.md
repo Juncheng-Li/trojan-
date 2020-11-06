@@ -25,7 +25,6 @@
     * 下载trojan脚本并打开
       ```shell
       curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh
-      sudo passwd root
       ./trojan_mult.sh
       ```
     * 选`1.安装trojan`
