@@ -15,6 +15,9 @@
       ```
    * 选`1.安装内核`
    * 重启使新安装的内核生效
+     ```shell
+     sudo reboot
+     ```
    * 重新运行脚本
       ```shell
       sudo bash tcp_nanqinlang-1.3.2.sh
